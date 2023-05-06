@@ -1,0 +1,11 @@
+:root{
+    --background-principal: #fb0404;
+    --fondo-secundario : rgb(67, 25, 203);
+    --background-image : url("../img/debut-1.webp");
+}
+
+body{
+    background-color: var(--background-principal);
+    background-image: var(--background-image);
+}
+
